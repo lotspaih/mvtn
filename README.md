@@ -16,7 +16,7 @@ _- ARRL_
 
 ### Resources
 
-[ARRL National Traffic System (NTS) Resources](http://www.arrl.org/nts)
+* [ARRL National Traffic System (NTS) Resources](http://www.arrl.org/nts)
 
 ### Contact
 
