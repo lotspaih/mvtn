@@ -7,19 +7,20 @@
 <author>
 <name>Miami Valley Traffic Net (MVTN)</name>
 </author>
-<updated>2021-12-01T13:15:46.380Z</updated>
+<updated>2021-12-01T18:10:44.508Z</updated>
 
 <entry>
 <title>Miami Valley Traffic Net Information</title>
 <id>http://mvtraffic.net/posts/NetInfo/post1.html</id>
 <link rel="alternate" href="http://mvtraffic.net/posts/NetInfo/post1.html"/>
 <updated>2021-12-01T00:00:00.000Z</updated>
-<summary type="text">MVTN Net Information</summary>
+<summary type="text">General Net Information</summary>
 <content type="html">&lt;p&gt;Serving Dayton, OH and &lt;a href=&quot;https://en.wikipedia.org/wiki/Miami_Valley&quot;&gt;Surrounding Areas&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The Miami Valley Traffic Net meets &lt;strong&gt;weekly on Monday evenings at 7:00 PM local time&lt;/strong&gt; and as activated.&lt;/p&gt;
 &lt;p&gt;We use the &lt;a href=&quot;http://mocoares.org/&quot;&gt;Montgomery County ARES&lt;/a&gt; &lt;strong&gt;K8MCA repeater &lt;a href=&quot;https://www.repeaterbook.com/repeaters/details.php?state_id=39&amp;amp;ID=6728&quot;&gt;146.640&lt;/a&gt; (&lt;em&gt;Offset: -0.6 MHz, PL Tone: 123.0&lt;/em&gt;)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Net Manager:&lt;/strong&gt; Frank Brewster, KC8HTP&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Net Manager:&lt;/strong&gt; Frank Brewster, &lt;a href=&quot;https://www.qrz.com/db/kc8htp&quot;&gt;KC8HTP&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
+&lt;p&gt;&lt;img src=&quot;http://mvtraffic.net/posts/NetInfo/../../assests/NTS.gif&quot; alt=&quot;NTS Logo Image&quot;/&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The National Traffic System (NTS) is a structure that allows for rapid movement of traffic from origin to destination and training amateur operators to handle written traffic and participate in directed nets.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -28,6 +29,29 @@
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;em&gt;- ARRL&lt;/em&gt;&lt;/p&gt;
 &lt;hr/&gt;
+</content>
+</entry>
+<entry>
+<title>Online Resources</title>
+<id>http://mvtraffic.net/posts/OnlineResources/post1.html</id>
+<link rel="alternate" href="http://mvtraffic.net/posts/OnlineResources/post1.html"/>
+<updated>2021-12-01T00:00:00.000Z</updated>
+<summary type="text">Resources Related to NTS and Miami Valley Traffic Net</summary>
+<content type="html">&lt;h3 id=&quot;forms&quot;&gt;Forms:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.arrl.org/files/file/Public%20Service/RADIOGRAM-2011.pdf&quot;&gt;Radiogram Form (PDF)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;training-manualsguides&quot;&gt;Training Manuals/Guides:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.arrl.org/files/file/Public%20Service/NTS_Manual2015.pdf&quot;&gt;NTS Manual (PDF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.arrl.org/table-of-contents-nts-methods-and-practices-guidelines&quot;&gt;NTS Methods and Practices Guidelines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=OOoQtzPRaIY&quot;&gt;ARRL National Traffic System and Radiogram Training (YouTube Video)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;internet-links&quot;&gt;Internet Links:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.arrl.org/nts&quot;&gt;ARRL National Traffic System (NTS) Resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ossbn.org/traffic_nets.html&quot;&gt;Traffic Nets Serving Ohio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
 </entry>
 <entry>
@@ -40,26 +64,6 @@
 &lt;p&gt;The Miami Valley Traffic Net thanks Frank for all his years of service and dedication to the net.&lt;/p&gt;
 &lt;p&gt;73 Frank!&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;The Miami Valley Traffic Net is currently considering interested licensed amateur radio operators who wish to assume the net manager duties and responsibilities. If you are interested, please contact Frank (KC8HTP) at the end of one of the December 2021 nets.&lt;/em&gt;&lt;/p&gt;
-</content>
-</entry>
-<entry>
-<title>Resources</title>
-<id>http://mvtraffic.net/posts/Resources/post1.html</id>
-<link rel="alternate" href="http://mvtraffic.net/posts/Resources/post1.html"/>
-<updated>2021-12-01T00:00:00.000Z</updated>
-<summary type="text">Resources and Links Related to NTS and MVTN</summary>
-<content type="html">&lt;h3 id=&quot;forms&quot;&gt;Forms:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.arrl.org/files/file/Public%20Service/RADIOGRAM-2011.pdf&quot;&gt;Radiogram Form (PDF)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;training-manualsguides&quot;&gt;Training Manuals/Guides:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.arrl.org/files/file/Public%20Service/NTS_Manual2015.pdf&quot;&gt;NTS Manual (PDF)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;web-links&quot;&gt;Web Links:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.arrl.org/nts&quot;&gt;ARRL National Traffic System (NTS) Resources&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </content>
 </entry>
 </feed>
