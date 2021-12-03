@@ -7,20 +7,19 @@
 <author>
 <name>Miami Valley Traffic Net (MVTN)</name>
 </author>
-<updated>2021-12-02T11:43:43.331Z</updated>
+<updated>2021-12-03T11:49:14.327Z</updated>
 
 <entry>
 <title>Miami Valley Traffic Net Information</title>
 <id>http://mvtraffic.net/posts/NetInfo/post1.html</id>
 <link rel="alternate" href="http://mvtraffic.net/posts/NetInfo/post1.html"/>
-<updated>2021-12-01T00:00:00.000Z</updated>
+<updated>2021-12-03T00:00:00.000Z</updated>
 <summary type="text">General Net Information</summary>
 <content type="html">&lt;p&gt;Serving Dayton, OH and &lt;a href=&quot;https://en.wikipedia.org/wiki/Miami_Valley&quot;&gt;Surrounding Areas&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The Miami Valley Traffic Net meets &lt;strong&gt;weekly on Monday evenings at 7:00 PM local time&lt;/strong&gt; and as activated.&lt;/p&gt;
-&lt;p&gt;We use the &lt;a href=&quot;http://mocoares.org/&quot;&gt;Montgomery County ARES&lt;/a&gt; &lt;strong&gt;K8MCA repeater &lt;a href=&quot;https://www.repeaterbook.com/repeaters/details.php?state_id=39&amp;amp;ID=6728&quot;&gt;146.640&lt;/a&gt; (&lt;em&gt;Offset: -0.6 MHz, PL Tone: 123.0&lt;/em&gt;)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Use the &lt;a href=&quot;http://mocoares.org/&quot;&gt;Montgomery County ARES&lt;/a&gt; &lt;strong&gt;K8MCA repeater &lt;a href=&quot;https://www.repeaterbook.com/repeaters/details.php?state_id=39&amp;amp;ID=6728&quot;&gt;146.640&lt;/a&gt; (&lt;em&gt;Offset: -0.6 MHz, PL Tone: 123.0&lt;/em&gt;)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Net Manager:&lt;/strong&gt; Frank Brewster, &lt;a href=&quot;https://www.qrz.com/db/kc8htp&quot;&gt;KC8HTP&lt;/a&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;&lt;img src=&quot;http://mvtraffic.net/posts/NetInfo/../../assests/NTS.gif&quot; alt=&quot;NTS Logo Image&quot;/&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The National Traffic System (NTS) is a structure that allows for rapid movement of traffic from origin to destination and training amateur operators to handle written traffic and participate in directed nets.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -28,19 +27,8 @@
 &lt;p&gt;During disasters or other emergencies, radiograms are used to communicate information critical to saving lives or property, or to inquire about the health or welfare of a disaster victim.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;em&gt;- ARRL&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://mvtraffic.net/posts/NetInfo/../../assests/NTS.gif&quot; alt=&quot;NTS Logo Image&quot;/&gt;&lt;/p&gt;
 &lt;hr/&gt;
-</content>
-</entry>
-<entry>
-<title>KC8HTP Stepping Down as Net Manager</title>
-<id>http://mvtraffic.net/posts/News/post1.html</id>
-<link rel="alternate" href="http://mvtraffic.net/posts/News/post1.html"/>
-<updated>2021-12-01T00:00:00.000Z</updated>
-<summary type="text">KC8HTP, Frank Brewster, Stepping Down as MVTN Net Manager</summary>
-<content type="html">&lt;p&gt;Long time Miami Valley Traffic Net Manager, Frank Brewster, callsign KC8HTP, announced on the November 29th net that he will be stepping down as the net manager effective the end of December 2021.&lt;/p&gt;
-&lt;p&gt;The Miami Valley Traffic Net would like to thank Frank for his years of service and dedication to the net.&lt;/p&gt;
-&lt;p&gt;73, and see you next time, Frank!&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;The Miami Valley Traffic Net is currently considering interested licensed amateur radio operators who wish to assume the net manager duties and responsibilities. If you are interested, please contact Frank (KC8HTP) at the end of one of the December 2021 nets.&lt;/em&gt;&lt;/p&gt;
 </content>
 </entry>
 <entry>
@@ -65,8 +53,20 @@
 &lt;h3 id=&quot;internet-links&quot;&gt;Internet Links:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://www.arrl.org/nts&quot;&gt;ARRL National Traffic System (NTS) Resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://arrl-ohio.org/stm/stm.html&quot;&gt;Ohio Section Traffic Manager&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://ossbn.org/traffic_nets.html&quot;&gt;Traffic Nets Serving Ohio&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</content>
+</entry>
+<entry>
+<title>KC8HTP Stepping Down as Net Manager</title>
+<id>http://mvtraffic.net/posts/News/post1.html</id>
+<link rel="alternate" href="http://mvtraffic.net/posts/News/post1.html"/>
+<updated>2021-12-01T00:00:00.000Z</updated>
+<summary type="text">KC8HTP, Frank Brewster, Stepping Down as MVTN Net Manager</summary>
+<content type="html">&lt;p&gt;Long time Miami Valley Traffic Net Manager, Frank Brewster, callsign KC8HTP, announced on the November 29th net that he will be stepping down as the net manager effective the end of December 2021.&lt;/p&gt;
+&lt;p&gt;The Miami Valley Traffic Net would like to thank Frank for his years of service and dedication to the net.&lt;/p&gt;
+&lt;p&gt;73, and see you next time, Frank!&lt;/p&gt;
 </content>
 </entry>
 </feed>
