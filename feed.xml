@@ -7,7 +7,7 @@
 <author>
 <name>Miami Valley Traffic Net (MVTN)</name>
 </author>
-<updated>2021-12-06T18:54:33.757Z</updated>
+<updated>2021-12-08T12:12:01.602Z</updated>
 
 <entry>
 <title>Miami Valley Traffic Net Information</title>
@@ -34,6 +34,17 @@
 </content>
 </entry>
 <entry>
+<title>KC8HTP Stepping Down as Net Manager</title>
+<id>http://mvtraffic.net/posts/News/post1.html</id>
+<link rel="alternate" href="http://mvtraffic.net/posts/News/post1.html"/>
+<updated>2021-12-01T00:00:00.000Z</updated>
+<summary type="text">KC8HTP, Frank Brewster, Stepping Down as MVTN Net Manager</summary>
+<content type="html">&lt;p&gt;Long time Miami Valley Traffic Net Manager, Frank Brewster, callsign KC8HTP, announced on the November 29th net that he will be stepping down as the net manager effective the end of December 2021.&lt;/p&gt;
+&lt;p&gt;The Miami Valley Traffic Net would like to thank Frank for his years of service and dedication to the net.&lt;/p&gt;
+&lt;p&gt;73, and see you next time, Frank!&lt;/p&gt;
+</content>
+</entry>
+<entry>
 <title>Online Resources</title>
 <id>http://mvtraffic.net/posts/OnlineResources/post1.html</id>
 <link rel="alternate" href="http://mvtraffic.net/posts/OnlineResources/post1.html"/>
@@ -47,6 +58,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://www.arrl.org/files/file/Public%20Service/NTS_Manual2015.pdf&quot;&gt;NTS Manual (PDF)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://www.arrl.org/table-of-contents-nts-methods-and-practices-guidelines&quot;&gt;NTS Methods and Practices Guidelines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.arrl.org/shop/Operating-Manual/&quot;&gt;ARRL Operating Manual 12th Edition (&lt;em&gt;Read Sections 2.4.3 and 2.4.6&lt;/em&gt;)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&quot;training-videos&quot;&gt;Training Videos&lt;/h3&gt;
 &lt;ul&gt;
@@ -58,17 +70,6 @@
 &lt;li&gt;&lt;a href=&quot;http://arrl-ohio.org/stm/stm.html&quot;&gt;Ohio Section Traffic Manager&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://ossbn.org/traffic_nets.html&quot;&gt;Traffic Nets Serving Ohio&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-</entry>
-<entry>
-<title>KC8HTP Stepping Down as Net Manager</title>
-<id>http://mvtraffic.net/posts/News/post1.html</id>
-<link rel="alternate" href="http://mvtraffic.net/posts/News/post1.html"/>
-<updated>2021-12-01T00:00:00.000Z</updated>
-<summary type="text">KC8HTP, Frank Brewster, Stepping Down as MVTN Net Manager</summary>
-<content type="html">&lt;p&gt;Long time Miami Valley Traffic Net Manager, Frank Brewster, callsign KC8HTP, announced on the November 29th net that he will be stepping down as the net manager effective the end of December 2021.&lt;/p&gt;
-&lt;p&gt;The Miami Valley Traffic Net would like to thank Frank for his years of service and dedication to the net.&lt;/p&gt;
-&lt;p&gt;73, and see you next time, Frank!&lt;/p&gt;
 </content>
 </entry>
 </feed>
